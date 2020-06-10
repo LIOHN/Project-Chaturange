@@ -3,7 +3,7 @@ jdk14
 A game of chess implemented in java as an extracurricular project.
 I accept and welcome any advice/criticism you have for me regarding this project.
 
-While this project is incomplete, it does run.
+While this project is missing some features, it does run.
 I made this to showcase some OOP principles and notions I have a solid grasp of. 
 
 I need to:
